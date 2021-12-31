@@ -1,11 +1,10 @@
-# Obsidian Notes
+# Art Athlete
 
 Publish your public notes with MkDocs
 
-## Hello World!
+## Support
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Please visit the [[Support]] page for an explanation on how to use Art Athlete.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+Email me at artathlete@icloud.com
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
