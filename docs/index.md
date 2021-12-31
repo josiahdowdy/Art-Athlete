@@ -1,6 +1,6 @@
 # Art Athlete
 
-Publish your public notes with MkDocs
+Art Athlete is an app for artists to load in their photos and set them on a timer so they can practice sketching and warm up for the day.
 
 ## Support
 
