@@ -5,14 +5,16 @@ theme:
     palette: 
       primary: blue grey
       accent: amber
-    font:
-      text: Merriweather
+   # font:
+     # text: Merriweather
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: teal
       accent: amber
+      font:
+        text: Merriweather
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
