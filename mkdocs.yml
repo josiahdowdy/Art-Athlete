@@ -1,7 +1,7 @@
 site_name: obsidian-mkdocs template
 
 theme:
-    name: 'readthedocs'
+    name: 'mkdocs'
     palette:
 
     # Light mode
