@@ -5,4 +5,3 @@ For example, load in 20 pictures of your cat, then select 60 seconds for each on
 
 Drawing in this way is a great way to warm up each day and to help you to draw faster.
 
-Example: link to [[Support]] under `Topic 2`

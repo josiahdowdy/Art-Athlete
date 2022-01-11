@@ -1,20 +1,19 @@
 site_name: Art Athlete
 
+
 theme:
-    name: material
-    palette: 
-      primary: blue grey
-      accent: amber
-   # font:
-     # text: Merriweather
+  name: material
+  palette: 
+    #primary: blue grey
+    #accent: amber
+  #font: 
+   # text: Merriweather
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: teal
       accent: amber
-      font:
-        text: Merriweather
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -27,6 +26,11 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+  extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/josiahdowdy
 
 # Extensions
 markdown_extensions:
