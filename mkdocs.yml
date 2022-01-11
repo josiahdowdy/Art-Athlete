@@ -1,25 +1,27 @@
 site_name: Art Athlete
 
 theme:
-    name: 'mkdocs'
-    palette:
+    name: 'material'
+    palette: 
+      primary: blue grey
+      accent: amber
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: teal
+      accent: amber
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
+      primary: blue grey
+      accent: orange
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
 
 # Extensions
